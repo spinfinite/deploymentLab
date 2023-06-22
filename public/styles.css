@@ -7,8 +7,9 @@ body {
 
 h1{
     height: 100px;
-    background-color: green;
-    color: yellow
+    width: 800px;
+    background-color: rgb(148, 159, 197);
+    color: rgb(0, 234, 255)
 }
 
 img{
