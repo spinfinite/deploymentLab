@@ -8,8 +8,8 @@ body {
 h1{
     height: 100px;
     width: 800px;
-    background-color: rgb(148, 159, 197);
-    color: rgb(0, 234, 255)
+    background-color: rgba(135, 107, 40, 0.423);
+    color: rgb(55, 52, 88)
 }
 
 img{
